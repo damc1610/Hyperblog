@@ -2,11 +2,4 @@ esta es la historia de daniel martinez
 Daniel martinez tiene 31 anos y nacio en venezuela,
 el pais de la alegria y el bochinche.
 
-hoy hablaremos de su historia
-
-Le gusta el tenis, pero recientemente le agarro carino al rugby
-
-Hoy en dia esta aprendiendo programacion y 
-su objetivo es conseguir un trabajo en esta area
-se casa a finales de ano
-invitara a la boda aproximadamente 100 personas
+aprendiendo a realizar cambios permanentes en git
