@@ -9,6 +9,7 @@ En este curso vemos de todo
 * el verdadero amor por las buenas practicas
 * trucos muy locos del profesor
 * las personalidades multiples de freddy
+* creado por el increible platzi team
 
 **y como amable recordatorio este readme es una prueba para la clase de readme del curso de git y github. 
 **
