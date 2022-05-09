@@ -10,6 +10,8 @@ En este curso vemos de todo
 * trucos muy locos del profesor
 * las personalidades multiples de freddy
 * creado por el increible platzi team
+* incluye ejemplos en windows linux y mac 
+* disponible para todas las edades
 
 **y como amable recordatorio este readme es una prueba para la clase de readme del curso de git y github. 
 **
